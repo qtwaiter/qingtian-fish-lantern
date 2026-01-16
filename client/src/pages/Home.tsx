@@ -285,7 +285,7 @@ export default function Home() {
             基于郭秉强先生手记一、二、三整理制作
           </p>
           <div className="flex justify-center gap-8 text-sm text-white/40">
-            <span>© 2024 非遗数字保护计划</span>
+            <span>© 2026 非遗数字保护计划</span>
             <span>Designed with Ink & Code</span>
           </div>
         </div>
